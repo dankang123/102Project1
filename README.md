@@ -26,7 +26,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='https://www.loom.com/share/55fcea5fca2a49eca6798fd04fb9a13e?sid=33095cff-3d2e-45d6-91d0-9d5b866a5161' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/55fcea5fca2a49eca6798fd04fb9a13e?sid=a1b03495-09aa-4abd-8523-da1460ddb3b6" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with LOOM
