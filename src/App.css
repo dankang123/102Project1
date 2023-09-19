@@ -1,0 +1,28 @@
+#root {
+  margin: 0;
+  text-align: center;
+}
+
+:root {
+  font-family: Helvetica,sans-serif;
+  background-color: #a9e2e4;
+}
+
+body {
+  align-items: center;
+  justify-content: center;
+}
+
+
+
+
+h1 {
+  color: #fff;
+  font-size: 80px;
+  text-shadow: black 1px 0 10px;
+
+}
+
+
+/* a8dddf */
+
